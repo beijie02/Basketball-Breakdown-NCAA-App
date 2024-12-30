@@ -5,6 +5,8 @@ This is my group's final project for STA 523 (R Programming): a data archive NCA
 
 This project was created by Yiming Cheng, Zhihao Chen, Beijie Ji,  Weitong Liang, Yixiao Wang, under the instruction of Assistant Professor Colin Rundel for the Fall 2024 section of STA 523: Statistical Programming at Duke University.
 
+You can click [here](https://yixiao-wang-stats.github.io/projects/NCAA_Data_Archive_Shiny_App) to get more detailed introduction and demo of our project.
+
 
 ## Below is original requirements
 
